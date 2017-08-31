@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "postinstall": "cd client && yarn install"
+  },
+
+  "name": "charlotte",
+  "private": true,
+  "dependencies": {},
+  "cacheDirectories": [
+    "node_modules",
+    "client/node_modules"
+  ]
+}
